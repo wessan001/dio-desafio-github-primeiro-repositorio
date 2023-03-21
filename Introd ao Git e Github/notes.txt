@@ -1,0 +1,5 @@
+Aprendi a: 
+	
+	- Utilizar o Git e Github
+	- Conciliar as duas ferramentas
+	- Criar repositórios e suas importancias
